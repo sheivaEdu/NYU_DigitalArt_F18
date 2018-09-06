@@ -24,7 +24,7 @@ Friday, 9/7/2018
 * _Note: there will be time in class to do the homework. Please wait for further instructions in class on how to do this work and properly turn it in._
 
 
-![FullSizeRender](/var/folders/fs/m9d3dz7n5nbbx6q1417l9m9c0000gn/T/net.shinyfrog.bear/BearTemp.El40m4/FullSizeRender.jpg)
+![FullSizeRender](FullSizeRender.jpg)
 
 
 
