@@ -10,6 +10,8 @@ Here you will find all the necessary links for this class.
 
 
 
+
+
 <u>Class 1. Friday 9/7/2017:</u>
 
 **The syllabus:** https://goo.gl/nGYuem
