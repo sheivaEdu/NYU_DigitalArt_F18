@@ -25,5 +25,5 @@ Here you will find all the necessary links for this class.
 
 - **Attendance:** https://goo.gl/forms/GU06M37hzILXzgPe2
 - **Github:** Create your own account
-- **Homework:** Due by Thur, Sept 20th, 5pm in the Github Wiki
+- **Homework:** Due by Thur, Sept 20th, 5pm here: https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
 
