@@ -20,6 +20,9 @@ Here you will find all the necessary links for this class.
 
 **Class Survey:** https://goo.gl/forms/LSlDkQRLwQkBSE0Y2
 
+
+
+
 <u>Class 2. Friday 9/14/2017:</u>
 
 **Attendance:** https://goo.gl/forms/GU06M37hzILXzgPe2
