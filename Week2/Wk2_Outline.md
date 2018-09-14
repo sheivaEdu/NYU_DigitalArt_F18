@@ -14,7 +14,7 @@ Login for the computers:  “**barney**” (all lowercase)
 
   - Course Site: bit.ly/NYU_F18
 
-  - Attendance (code: 7832)
+  - Attendance (code: ___)
 
   - Homework Review & Setup
 
