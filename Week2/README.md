@@ -51,7 +51,3 @@
 [Anti-Face Detection Camouflage](https://t.umblr.com/redirect?z=http%3A%2F%2Fcvdazzle.com&t=OWM0ZjdiYmUzOTE1ODBjY2QyMjE0OTY1MjI0OTBmZjMxNzU1Y2ZhZixHeWQycUxBZQ%3D%3D&b=t%3AIUytWqoVMUXPsG6z4BTLbA&p=https%3A%2F%2Fnyudigitalart-f17.tumblr.com%2Fpost%2F165219851542%2Fportraits-montages-identites&m=1) & [Stealth Wear](https://t.umblr.com/redirect?z=http%3A%2F%2Fahprojects.com%2Fprojects%2Fstealth-wear&t=NzZlMTZkZWFhNjk2MzRmMGVkZGQ4MDllZDE1MWVhZDQ3MGRkODNhZSxHeWQycUxBZQ%3D%3D&b=t%3AIUytWqoVMUXPsG6z4BTLbA&p=https%3A%2F%2Fnyudigitalart-f17.tumblr.com%2Fpost%2F165219851542%2Fportraits-montages-identites&m=1) 
 
 [AI can read pixelated facial images ](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.wired.com%2F2016%2F09%2Fmachine-learning-can-identify-pixelated-faces-researchers-show%2F&t=NzdkNTYwM2JmYjM1MmQ3OTc4NWI2OGEyODUyNWMzMDc5ZTQwZmIzMixHeWQycUxBZQ%3D%3D&b=t%3AIUytWqoVMUXPsG6z4BTLbA&p=https%3A%2F%2Fnyudigitalart-f17.tumblr.com%2Fpost%2F165219851542%2Fportraits-montages-identites&m=1)
-
-supplemental reading:
-
-David Chaum - *Security Without Identification* (from 1985)
