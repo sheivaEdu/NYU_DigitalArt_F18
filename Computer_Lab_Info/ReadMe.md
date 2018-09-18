@@ -49,7 +49,9 @@ C3 Level (Sub Basement)
 
 ### General Lab Info:
 [Student Technology Centers](https://www.nyu.edu/life/information-technology/locations-and-facilities/student-technology-centers.html) (Includes the info above)
+
 [Software Available by Location](https://www.nyu.edu/life/information-technology/getting-started/software/software-by-nyu-it-location.html)
+
 [IT Locations Map](https://www.google.com/maps/d/u/0/viewer?mid=1ZoG3LYsjud0aD7B5msZwLB_OFA4&ll=40.73664071702436%2C-73.98440805000001&z=13)
 
 
