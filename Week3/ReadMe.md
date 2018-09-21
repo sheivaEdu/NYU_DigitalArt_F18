@@ -12,6 +12,10 @@ Course Site: http://bit.ly/NYU_F18 <-- Fill out attendance form here
 
 -Field Trip to Photo Lab for quick orientation (& Equipment Access!)
 
+  -Notes from Jen: Strict late policy
+  -Check out La Guardia Studio for printing opportunities (get a quote from them and bring it to Jen and she will cut you a check for 85% of the cost):
+  https://www.nyu.edu/life/information-technology/locations-and-facilities/laguardia-studio.html
+
 -Studio Lab time
 
 
