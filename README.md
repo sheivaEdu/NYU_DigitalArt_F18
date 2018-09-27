@@ -17,7 +17,6 @@ Here you will find all the necessary links for this class.
 
 <u>Class 3. Friday 9/21/2018:</u>
 
-- **Attendance:** https://goo.gl/forms/yMiyw2HsMhOQcirq1
 - **Homework:** Due the day before Class 4 by Thur, Sept 27th, 5pm here: https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
 
 
