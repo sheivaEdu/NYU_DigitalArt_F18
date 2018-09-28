@@ -16,6 +16,8 @@ Course Site: http://bit.ly/NYU_F18 <-- Fill out attendance form here
 
 -BREAK
 
+-BONUS: A talk about cats: https://vimeo.com/69181785
+
 -Intro to Animation
 
 ​	-The Story of Stanford & Muybridge
