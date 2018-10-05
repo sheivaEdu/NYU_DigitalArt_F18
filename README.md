@@ -13,6 +13,8 @@ Here you will find all the necessary links for this class.
 
 - **Attendance:** https://goo.gl/forms/8yHjcM1PvWiFiAhy2
 
+- **Homework:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
+
 
 <u>Class 4. Friday 9/28/2018:</u>
 
