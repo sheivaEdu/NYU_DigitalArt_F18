@@ -23,9 +23,9 @@ Course Site: http://bit.ly/NYU_F18 <-- Fill out attendance form here
 
 - Animation in Photoshop Part 2, "Video Timeline"
   
-  - The "Stopwatch"
+  - The "Stopwatch" = [like a "light switch"]
   
-  - "Keyframes"
+  - "Keyframes" = [like a "bookmark"]
 
 - Changes to schedule: 
   
