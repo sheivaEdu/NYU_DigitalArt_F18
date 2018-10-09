@@ -9,9 +9,14 @@ Welcome!
 Here you will find all the necessary links for this class.
 
 
-<u>Class 5. Friday 10/5/2018:</u>
+<u>Class 6. Friday 10/12/2018:</u>
 
-- **Attendance:** https://goo.gl/forms/8yHjcM1PvWiFiAhy2
+- **Attendance:** https://goo.gl/forms/l3cGHSC6Y3Md7Grt1
+
+- **Homework:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
+
+
+<u>Class 5. Friday 10/5/2018:</u>
 
 - **Homework:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
 
