@@ -32,7 +32,7 @@ http://www.sansfrancis.co/
 
 Here is a great place to find video tutorials for any future explorations:
 
-http://www.lynda.com/After-Effects-tutorials/After-Effects-Graphic-Design/679635-2.html
+https://www.lynda.com/After-Effects-tutorials/Enhance-illustration-rain/679635/775972-4.html
 
 A place for royalty-free music:
 
