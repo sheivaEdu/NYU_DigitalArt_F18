@@ -16,7 +16,7 @@ Here you will find all the necessary links for this class.
 
 - **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
 
-- **Reminder:** No class next week.  Following class, meet at NEW INC, next door to the New Museum.
+- **Reminder:** No class next week (10/26).  Following class, (11/2) meet at NEW INC, next door to the New Museum.
 
 
 
