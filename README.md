@@ -9,9 +9,18 @@ Welcome!
 Here you will find all the necessary links for this class.
 
 
-<u>Class 6. Friday 10/12/2018:</u>
 
-- **Attendance:** https://goo.gl/forms/l3cGHSC6Y3Md7Grt1
+<u>Class 7. Friday 10/19/2018:</u>
+
+- **Attendance:** https://goo.gl/forms/hhGCMlKf8qjR0QbJ3
+
+- **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
+
+- Reminder: No class next week.  Following class, meet at NEW INC, next door to the New Museum.
+
+
+
+<u>Class 6. Friday 10/12/2018:</u>
 
 - **Homework:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
 
