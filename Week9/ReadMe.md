@@ -20,7 +20,7 @@ _Outline:_
 		* strokeWeight();
 		* fill():
 		* RGB: 0-255, 1 value, 3 values, 4 values.
-	* Comments : 
+	* Comments : //
 	* Order of Operations
 
 * Dan Shiffman videos for reference:
