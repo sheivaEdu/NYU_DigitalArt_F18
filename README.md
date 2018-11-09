@@ -9,6 +9,21 @@ Welcome!
 Here you will find all the necessary links for this class.
 
 
+<u>Class 9. Friday 11/9/2018:</u>
+
+- **Attendance:** https://goo.gl/forms/stdwfuV154TfXnTV2
+
+- Topic: Intro to p5
+
+
+
+<u>Class 8. Friday 11/02/2018:</u>
+
+- **Attendance:** To be taken on site.
+
+- **Reminder:** On-site visit to NEW INC, next door to the New Museum. See email for details.
+
+
 
 <u>Class 7. Friday 10/19/2018:</u>
 
