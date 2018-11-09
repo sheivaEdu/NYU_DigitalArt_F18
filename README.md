@@ -11,7 +11,7 @@ Here you will find all the necessary links for this class.
 
 <u>Class 9. Friday 11/9/2018:</u>
 
-- **Attendance:** https://goo.gl/forms/stdwfuV154TfXnTV2
+- **Attendance:** https://goo.gl/forms/KZWloNvKkDwgOxSS2
 
 - **Topic:** Intro to p5
 
