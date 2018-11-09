@@ -64,7 +64,6 @@ function draw() {
 
 Reference Tags:
 #Ed_F18 Copied on 10/19/2018 for #Ed_F18/NYU, #Ed_F18/LectureNotes
-Original: MMP100, wk 5-2, Wednesday, 10/10/2018
 
 
 
