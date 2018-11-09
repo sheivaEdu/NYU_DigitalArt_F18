@@ -13,7 +13,7 @@ Here you will find all the necessary links for this class.
 
 - **Attendance:** https://goo.gl/forms/stdwfuV154TfXnTV2
 
-- Topic: Intro to p5
+- **Topic:** Intro to p5
 
 
 
@@ -26,8 +26,6 @@ Here you will find all the necessary links for this class.
 
 
 <u>Class 7. Friday 10/19/2018:</u>
-
-- **Attendance:** https://goo.gl/forms/hhGCMlKf8qjR0QbJ3
 
 - **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit?usp=sharing
 
