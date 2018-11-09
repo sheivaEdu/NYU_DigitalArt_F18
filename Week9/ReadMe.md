@@ -1,5 +1,5 @@
 # NYU Digital Art for Non-Majors, Wk9
-##p5 Lecture Notes
+## p5.js Lecture Notes
 
 _Outline:_
 * Intros & Sign-in
