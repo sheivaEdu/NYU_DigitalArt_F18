@@ -15,6 +15,8 @@ Here you will find all the necessary links for this class.
 
 - **Topic:** Intro to p5
 
+- **Homework:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
+
 
 
 <u>Class 8. Friday 11/02/2018:</u>
