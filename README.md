@@ -9,9 +9,18 @@ Welcome!
 Here you will find all the necessary links for this class.
 
 
+<u>Class 10. Friday 11/16/2018:</u>
+
+- **Attendance:** https://goo.gl/forms/BtIKVASkPb5XLWSF3
+
+- **Topic:** p5 Homework Lab
+
+- **Homework:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
+
+
+
 <u>Class 9. Friday 11/9/2018:</u>
 
-- **Attendance:** https://goo.gl/forms/KZWloNvKkDwgOxSS2
 
 - **Topic:** Intro to p5
 
