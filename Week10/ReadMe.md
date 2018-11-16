@@ -30,7 +30,7 @@ Close up of RGB values, right above the highlighted hex code:
 
 Get to the color picker by clicking on the thumbnail for the foreground color
 
-![Foreground Color thumbnail in Tools Panel in Photoshop](/foreground_color_PS.png)
+![Foreground Color thumbnail in Tools Panel in Photoshop](foreground_color_PS.png)
 
 While the color picker is open use the automatic eyedropper to choose the color you want.  
 
