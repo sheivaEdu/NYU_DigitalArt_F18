@@ -20,7 +20,7 @@ Course Site: http://bit.ly/NYU_F18 <-- Find attendance form here
 
 interested in finding a color's RGB value to insert it into your p5 sketch?  Use the color picker in Photoshop:
 
-![Dog In Photoshop](Week10/dog_in_PS.png)
+![Dog In Photoshop](dog_in_PS.png)
 
 Close up of RGB values, right above the highlighted hex code:
 
