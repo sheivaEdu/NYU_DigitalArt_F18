@@ -20,17 +20,17 @@ Course Site: http://bit.ly/NYU_F18 <-- Find attendance form here
 
 interested in finding a color's RGB value to insert it into your p5 sketch?  Use the color picker in Photoshop:
 
-![Dog In Photoshop](dog_in_PS.png)
+![Picture of a Dog In Photoshop](dog_in_PS.png)
 
 Close up of RGB values, right above the highlighted hex code:
 
 
 
-![Screen Shot 2018-11-16 at 4.01.00 PM](/Screen Shot 2018-11-16 at 4.01.00 PM.png)
+![RGB Values in Color Picker Close up](rgbvalues_PS.png)
 
 Get to the color picker by clicking on the thumbnail for the foreground color
 
-![Screen Shot 2018-11-16 at 4.01.00 PM](/Screen Shot 2018-11-16 at 4.01.04 PM.png)
+![Foreground Color thumbnail in Tools Panel in Photoshop](/foreground_color_PS.png)
 
 While the color picker is open use the automatic eyedropper to choose the color you want.  
 
