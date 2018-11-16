@@ -22,19 +22,19 @@ interested in finding a color's RGB value to insert it into your p5 sketch?  Use
 
 ![Picture of a Dog In Photoshop](dog_in_PS.png)
 
-Close up of RGB values, right above the highlighted hex code:
-
-
-
-![RGB Values in Color Picker Close up](rgbvalues_PS.png)
-
-Get to the color picker by clicking on the thumbnail for the foreground color
+Get to the color picker shown above by clicking on the thumbnail for the foreground color
 
 ![Foreground Color thumbnail in Tools Panel in Photoshop](foreground_color_PS.png)
 
-While the color picker is open use the automatic eyedropper to choose the color you want.  
+Close up of RGB values in the color picker, right above the highlighted hex code:
+
+![RGB Values in Color Picker Close up](rgbvalues_PS.png)
 
 
 
-Voila! You've got your RGB value!
+While the color picker pop-up is open use the automatic eyedropper and click on your image to choose the color you want.  
+
+
+
+### Voila! You've got your RGB value!
 
