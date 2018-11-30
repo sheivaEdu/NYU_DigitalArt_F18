@@ -11,7 +11,14 @@ Here you will find all the necessary links for this class.
 
 <u>Class 10. Friday 11/16/2018:</u>
 
-- **Attendance:** https://goo.gl/forms/BtIKVASkPb5XLWSF3
+- **Attendance:** https://goo.gl/forms/uKAUL0xstOUrfqzu1
+
+- **Topic:** p5 Homework Class Critique & Web VR Intro
+
+- **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
+
+
+<u>Class 10. Friday 11/16/2018:</u>
 
 - **Topic:** p5 Homework Lab
 
