@@ -19,6 +19,7 @@ _Outline:_
 https://www.flickr.com/groups/equirectangular/
 
 * Sources for 3D models:
+
 [thingiverse.com](thingiverse.com)
 
 [3D Warehouse](https://3dwarehouse.sketchup.com/)
