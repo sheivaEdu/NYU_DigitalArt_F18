@@ -19,10 +19,13 @@ _Outline:_
 https://www.flickr.com/groups/equirectangular/
 
 * Sources for 3D models:
-thingiverse.com
+[thingiverse.com](thingiverse.com)
+
 [3D Warehouse](https://3dwarehouse.sketchup.com/)
-sketchfab.com
-turbosquid.com
+
+[sketchfab.com](sketchfab.com)
+
+[turbosquid.com](turbosquid.com)
 
 
 ### Directions for importing 3D models into A-frame:
