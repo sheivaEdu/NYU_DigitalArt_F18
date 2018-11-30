@@ -14,8 +14,11 @@ _Outline:_
 [A-Frame School](https://aframe.io/aframe-school/#/)
 
 
+
 ### Source Materials for Import
+
 * Flickr album of equirectangular images
+
 https://www.flickr.com/groups/equirectangular/
 
 * Sources for 3D models:
