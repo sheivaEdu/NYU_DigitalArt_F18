@@ -12,7 +12,7 @@ Here you will find all the necessary links for this class.
 
 <u>Class 13. Friday 12/07/2018:</u>
 
-- **Attendance:**
+- **Attendance:** https://goo.gl/forms/gRPy5JfFKaZejT4S2
 
 - **Topic:** Web VR with A-frame Continued
 
