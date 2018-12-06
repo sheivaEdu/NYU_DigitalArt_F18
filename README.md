@@ -9,16 +9,24 @@ Welcome!
 Here you will find all the necessary links for this class.
 
 
-<u>Class 11. Friday 11/30/2018:</u>
 
-- **Attendance:** https://goo.gl/forms/uKAUL0xstOUrfqzu1
+<u>Class 13. Friday 12/07/2018:</u>
+
+- **Attendance:**
+
+- **Topic:** Web VR with A-frame Continued
+
+- **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
+
+
+<u>Class 12. Friday 11/30/2018:</u>
 
 - **Topic:** p5 Homework Class Critique & Web VR Intro
 
 - **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
 
 
-<u>Class 10. Friday 11/16/2018:</u>
+<u>Class 11. Friday 11/16/2018:</u>
 
 - **Topic:** p5 Homework Lab
 
@@ -26,7 +34,7 @@ Here you will find all the necessary links for this class.
 
 
 
-<u>Class 9. Friday 11/9/2018:</u>
+<u>Class 10. Friday 11/9/2018:</u>
 
 
 - **Topic:** Intro to p5
@@ -35,7 +43,7 @@ Here you will find all the necessary links for this class.
 
 
 
-<u>Class 8. Friday 11/02/2018:</u>
+<u>Class 9. Friday 11/02/2018:</u>
 
 - **Attendance:** To be taken on site.
 
