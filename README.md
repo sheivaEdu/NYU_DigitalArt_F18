@@ -16,7 +16,7 @@ Here you will find all the necessary links for this class.
 
 - **Topic:** Web VR with A-frame Continued
 
-- **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
+- **Homework:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
 
 
 <u>Class 12. Friday 11/30/2018:</u>
