@@ -9,10 +9,17 @@ Welcome!
 Here you will find all the necessary links for this class.
 
 
-
 <u>Class 13. Friday 12/07/2018:</u>
 
-- **Attendance:** https://goo.gl/forms/gRPy5JfFKaZejT4S2
+- **Attendance:** https://goo.gl/forms/xXgrnYPw71eJOUuH3
+
+- **Topic:** Web VR with A-frame
+
+- **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
+
+
+
+<u>Class 13. Friday 12/07/2018:</u>
 
 - **Topic:** Web VR with A-frame Continued
 
