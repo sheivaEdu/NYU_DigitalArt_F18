@@ -13,7 +13,7 @@ Here you will find all the necessary links for this class.
 
 - **Attendance:** https://goo.gl/forms/xXgrnYPw71eJOUuH3
 
-- **Topic:** Web VR with A-frame
+- **Topic:** Web VR with A-frame Class Critique
 
 - **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
 
