@@ -17,6 +17,10 @@ Here you will find all the necessary links for this class.
 
 - **Class Critique:** https://docs.google.com/document/d/1QDRDCI43gT3MFySzlsH0rAn7TSoe_3iCBhrzcPBWnVw/edit#
 
+- **NYU Student Evaluations:** http://steinhardt.nyu.edu/evals
+
+- **Anonymous Course Feedback (suggestions for improvement):** https://goo.gl/forms/PPyvaxLSEL6TGDcL2
+
 
 
 <u>Class 13. Friday 12/07/2018:</u>
