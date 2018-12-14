@@ -9,7 +9,7 @@ Welcome!
 Here you will find all the necessary links for this class.
 
 
-<u>Class 13. Friday 12/14/2018:</u>
+<u>Class 14. Friday 12/14/2018:</u>
 
 - **Attendance:** https://goo.gl/forms/xXgrnYPw71eJOUuH3
 
