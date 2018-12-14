@@ -9,6 +9,24 @@ Welcome!
 Here you will find all the necessary links for this class.
 
 
+**Epilogue:**
+
+Sad Cat Diary: https://www.youtube.com/watch?v=PKffm2uI4dk
+
+<u>Common 3D Modeling Software:</u>
+
+- Rhino
+
+- Unity
+
+- Blender
+
+- Maya
+
+- Cinema 4D
+
+
+
 <u>Class 14. Friday 12/14/2018:</u>
 
 - **Attendance:** https://goo.gl/forms/xXgrnYPw71eJOUuH3
